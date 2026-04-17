@@ -6,14 +6,14 @@
 # Tags       : Two Pointers, String, Stack
 #
 # --- Community Stats ---
-# Acceptance Rate : 86.4%
+# Acceptance Rate : 86.5%
 # Likes           : 1523
 # Dislikes        : 46
 #
 # --- My Submission ---
 # Language   : python
 # Runtime    : 0  (beats 100.0%)
-# Memory     : 12344000  (beats 66.52080000000001%)
+# Memory     : 12344000  (beats 64.8231%)
 # Submitted  : 1775852694
 #
 # --- Hints ---

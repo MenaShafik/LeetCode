@@ -7,12 +7,12 @@
 #
 # --- Community Stats ---
 # Acceptance Rate : 48.3%
-# Likes           : 102
+# Likes           : 103
 # Dislikes        : 10
 #
 # --- My Submission ---
 # Language   : mysql
-# Runtime    : 262  (beats 98.0856%)
+# Runtime    : 262  (beats 98.20139999999998%)
 # Memory     : 0  (beats 100.0%)
 # Submitted  : 1764337964
 #

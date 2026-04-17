@@ -6,14 +6,14 @@
 # Tags       : Array, Hash Table, Sorting
 #
 # --- Community Stats ---
-# Acceptance Rate : 64.2%
-# Likes           : 13964
+# Acceptance Rate : 64.3%
+# Likes           : 13970
 # Dislikes        : 1372
 #
 # --- My Submission ---
 # Language   : python
-# Runtime    : 15  (beats 76.29529999999998%)
-# Memory     : 25816000  (beats 61.716400000000064%)
+# Runtime    : 15  (beats 76.3111%)
+# Memory     : 25816000  (beats 61.06780000000007%)
 # Submitted  : 1773438038
 #
 # --- Hints ---

@@ -12,8 +12,8 @@
 #
 # --- My Submission ---
 # Language   : bash
-# Runtime    : 62  (beats 68.12239999999998%)
-# Memory     : 3460000  (beats 72.2033%)
+# Runtime    : 62  (beats 68.09559999999999%)
+# Memory     : 3460000  (beats 72.36489999999999%)
 # Submitted  : 1772651506
 #
 # --- Hints ---

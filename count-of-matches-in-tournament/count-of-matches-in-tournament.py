@@ -7,13 +7,13 @@
 #
 # --- Community Stats ---
 # Acceptance Rate : 86.4%
-# Likes           : 1883
+# Likes           : 1885
 # Dislikes        : 248
 #
 # --- My Submission ---
 # Language   : python
-# Runtime    : 7  (beats 97.63439999999999%)
-# Memory     : 12328000  (beats 57.849299999999985%)
+# Runtime    : 7  (beats 97.8166%)
+# Memory     : 12328000  (beats 56.7686%)
 # Submitted  : 1776116619
 #
 # --- Hints ---

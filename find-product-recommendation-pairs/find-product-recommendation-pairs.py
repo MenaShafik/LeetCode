@@ -12,7 +12,7 @@
 #
 # --- My Submission ---
 # Language   : mysql
-# Runtime    : 548  (beats 86.81970000000004%)
+# Runtime    : 548  (beats 87.43539999999996%)
 # Memory     : 0  (beats 100.0%)
 # Submitted  : 1766404023
 #

@@ -12,8 +12,8 @@
 #
 # --- My Submission ---
 # Language   : pythondata
-# Runtime    : 261  (beats 85.9473%)
-# Memory     : 66408000  (beats 55.789800000000014%)
+# Runtime    : 261  (beats 86.45460000000001%)
+# Memory     : 66408000  (beats 55.595499999999994%)
 # Submitted  : 1776288608
 #
 # --- Hints ---

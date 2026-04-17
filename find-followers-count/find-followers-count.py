@@ -12,7 +12,7 @@
 #
 # --- My Submission ---
 # Language   : mssql
-# Runtime    : 801  (beats 11.18209999999997%)
+# Runtime    : 801  (beats 11.122599999999956%)
 # Memory     : 0  (beats 100.0%)
 # Submitted  : 1760537499
 #

@@ -6,13 +6,13 @@
 # Tags       : Database
 #
 # --- Community Stats ---
-# Acceptance Rate : 50.6%
+# Acceptance Rate : 50.4%
 # Likes           : 32
 # Dislikes        : 17
 #
 # --- My Submission ---
 # Language   : postgresql
-# Runtime    : 195  (beats 76.2163%)
+# Runtime    : 195  (beats 77.34800000000001%)
 # Memory     : 0  (beats 100.0%)
 # Submitted  : 1765199369
 #

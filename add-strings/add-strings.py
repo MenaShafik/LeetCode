@@ -13,7 +13,7 @@
 # --- My Submission ---
 # Language   : python
 # Runtime    : 0  (beats 100.0%)
-# Memory     : 12536000  (beats 29.755900000000004%)
+# Memory     : 12536000  (beats 28.611099999999997%)
 # Submitted  : 1773077283
 #
 # --- Hints ---

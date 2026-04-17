@@ -6,13 +6,13 @@
 # Tags       : Database
 #
 # --- Community Stats ---
-# Acceptance Rate : 53.8%
-# Likes           : 58
+# Acceptance Rate : 53.9%
+# Likes           : 59
 # Dislikes        : 15
 #
 # --- My Submission ---
 # Language   : mssql
-# Runtime    : 373  (beats 80.78409999999995%)
+# Runtime    : 373  (beats 81.00759999999997%)
 # Memory     : 0  (beats 100.0%)
 # Submitted  : 1764523809
 #
