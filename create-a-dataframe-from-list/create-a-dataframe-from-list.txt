@@ -1,0 +1,24 @@
+# ==========================================================
+# Problem    : Create a DataFrame from List
+# URL        : https://leetcode.com/problems/create-a-dataframe-from-list/
+# Difficulty : Easy
+# Category   : pandas
+# Tags       : N/A
+#
+# Acceptance : 81.0%
+# Likes      : 292  |  Dislikes: 12
+#
+# Language   : pythondata
+# Runtime    : 234  (beats 92.25690000000004%)
+# Memory     : 65832000  (beats 59.5015%)
+# Submitted  : 1777149365
+# Exported   : 2026-04-25 20:37:04 UTC
+#
+# Hints: Consider using a built-in function in pandas library and specifying the column names within it.
+# ==========================================================
+import pandas as pd
+
+def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
+
+    df = pd.DataFrame(student_data, columns=['student_id', 'age'])
+    return df
