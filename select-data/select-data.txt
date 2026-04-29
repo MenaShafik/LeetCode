@@ -1,0 +1,23 @@
+# ==========================================================
+# Problem    : Select Data
+# URL        : https://leetcode.com/problems/select-data/
+# Difficulty : Easy
+# Category   : pandas
+# Tags       : N/A
+#
+# Acceptance : 78.5%
+# Likes      : 136  |  Dislikes: 8
+#
+# Language   : pythondata
+# Runtime    : 243  (beats 99.7257%)
+# Memory     : 67488000  (beats 8.736199999999975%)
+# Submitted  : 1777495834
+# Exported   : 2026-04-29 23:07:29 UTC
+#
+# Hints: Consider applying both row and column filtering to select the desired data.
+# ==========================================================
+import pandas as pd
+
+def selectData(students: pd.DataFrame) -> pd.DataFrame:
+    mina = students[students['student_id'] == 101]
+    return mina[['name', 'age']]
